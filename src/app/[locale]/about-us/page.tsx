@@ -17,7 +17,7 @@ const AboutUs = () => {
         </h1>
       </div>
       <div className="w-full flex flex-col gap-1 py-5">
-        <ul className="flex flex-col md:flex-row gap-2 md:gap-5 pt-5 container">
+        <ul className="flex flex-col md:flex-row gap-2 md:gap-5 pt-5 wraper">
           {navBarData[1].section?.map((item) => (
             <>
               <li
