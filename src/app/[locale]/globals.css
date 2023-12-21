@@ -7,6 +7,9 @@
     scroll-behavior: smooth;
   }
 }
+.bg-productAndSolutions {
+  background-image: url("https://i.imgur.com/MahrEh1.jpg");
+}
 .bg-headerImage {
   background-image: url("https://i.imgur.com/XPUgYgR.jpg");
 }
